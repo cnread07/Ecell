@@ -1,0 +1,37 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run index.html in browser",
+			"type": "shell",
+			"command": "open Index.html",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Open updated website",
+			"type": "shell",
+			"command": "open Index.html",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Open updated website",
+			"type": "shell",
+			"command": "open Index.html",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Open fixed version",
+			"type": "shell",
+			"command": "open index-fixed.html",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
